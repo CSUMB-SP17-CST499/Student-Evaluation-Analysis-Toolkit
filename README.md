@@ -1,0 +1,2 @@
+# Student-Evaluation-Analysis-Toolkit
+The iLearn system used in the BS CS Online program allows faculty to monitor student login times and grades, but lacks the means for faculty to preemptively assess and predict student performance. By detecting early signs of student struggle, professors will be able to extend a helping hand before a student falls too far behind. SEAT aims to learn from past educational data to be able to predict if a student is in danger of failing and to send early warning notices to professors if necessary.
